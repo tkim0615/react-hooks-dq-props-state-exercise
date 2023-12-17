@@ -1,4 +1,4 @@
-# Discussion Questions: Props and State Exercise
+  # Discussion Questions: Props and State Exercise
 
 In this program, we have three components: `App`, `HogBoss`, and `BabyHog`.
 
